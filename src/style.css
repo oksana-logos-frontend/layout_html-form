@@ -1,1 +1,19 @@
 /* styles go here */
+body {
+  display: block;
+  margin: 8px;
+}
+
+.input-block {
+  margin-bottom: 20px;
+}
+
+.input-row {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.input-row:last-child {
+  margin-bottom: 0;
+}
+
